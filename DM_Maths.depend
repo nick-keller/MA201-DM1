@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1353668923 source:c:\prog\dm_maths\main.cpp
+	<cstdlib>
+	<iostream>
+	<SFML/Graphics.hpp>
+	"Axis.h"
+	"MouseWrapper.h"
+	"Function.h"
+	"SinIntegral.h"
+	"ExpIntegral.h"
+
+1354221077 c:\prog\dm_maths\axis.h
+	<cstdlib>
+	<iostream>
+	"MouseWrapper.h"
+	<SFML/Graphics.hpp>
+
+1354221077 source:c:\prog\dm_maths\axis.cpp
+	"Axis.h"
+
+1354231209 source:c:\prog\dm_maths\function.cpp
+	"Function.h"
+
+1354231193 c:\prog\dm_maths\function.h
+	<cstdlib>
+	<iostream>
+	<cmath>
+	<SFML/Graphics.hpp>
+	"Axis.h"
+
+1354222251 source:c:\prog\dm_maths\sinintegral.cpp
+	"SinIntegral.h"
+
+1354231193 c:\prog\dm_maths\sinintegral.h
+	"Function.h"
+
+1354231193 c:\prog\dm_maths\expintegral.h
+	"Function.h"
+
+1354231193 source:c:\prog\dm_maths\expintegral.cpp
+	"ExpIntegral.h"
+
+1353482855 source:c:\prog\dm_maths\mouse.cpp
+	"Mouse.h"
+
+1353482855 c:\prog\dm_maths\mouse.h
+	<cstdlib>
+	<iostream>
+	<SFML/Graphics.hpp>
+
+1353579822 source:c:\prog\dm_maths\mousewrapper.cpp
+	"MouseWrapper.h"
+
+1353578997 c:\prog\dm_maths\mousewrapper.h
+	<cstdlib>
+	<iostream>
+	<SFML/Graphics.hpp>
+
